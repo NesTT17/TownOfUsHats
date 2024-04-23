@@ -4619,7 +4619,10 @@
         {
             "resource": "standard0053.png",
             "name": "Starlight hat",
-            "author": "Little Doo Doo"
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
           }
     ]
 }
