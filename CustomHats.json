@@ -1,36 +1,4633 @@
 {
     "hats": [
         {
-            "author": "TheLastShaymin",
-            "condition": "None",
-            "name": "annamaja hat",
-            "package": "Town Of Us Hats",
             "resource": "hats0000.png",
+            "name": "annamaja hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
             "modpack": "TOU"
         },
         {
+            "resource": "hats0000",
+            "name": "annamaja hat",
             "author": "TheLastShaymin",
             "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0001",
             "name": "zylus hat",
-            "package": "Town Of Us Hats",
-            "resource": "hats0001.png",
-            "modpack": "TOU"
-        },
-        {
             "author": "TheLastShaymin",
             "condition": "None",
-            "name": "anniefuschia hat",
             "package": "Town Of Us Hats",
-            "resource": "hats0002.png",
             "modpack": "TOU"
         },
         {
+            "resource": "hats0002",
+            "name": "anniefuschia hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0003",
+            "name": "aphex hat",
             "author": "Pigoletto",
             "condition": "None",
-            "name": "aphex hat",
             "package": "Town Of Us Hats",
-            "resource": "hats0003.png",
             "modpack": "TOU"
-        }
+        },
+        {
+            "resource": "hats0004",
+            "name": "aplatypuss hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0005",
+            "name": " asexual hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0006",
+            "name": "ash_1 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0007",
+            "name": "ash_1 hat flipped",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0008",
+            "name": "axilla hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0009",
+            "name": "ben hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0010",
+            "name": "besty hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0011",
+            "name": "bisexual hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0012",
+            "name": "bloody hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0013",
+            "name": "boba hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0014",
+            "name": "breeh hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0015",
+            "name": "brittzey hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0016",
+            "name": "cheesy hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0017",
+            "name": "chilledchaos hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0018",
+            "name": "clara hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0019",
+            "name": "dawko hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0020",
+            "name": "dizzilulu hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0021",
+            "name": "duncan hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0022",
+            "name": "dyto hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0023",
+            "name": "ellum hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0024",
+            "name": "falcone_1 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0025",
+            "name": "freyzplayz hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0026",
+            "name": "garbage hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0027",
+            "name": "gay hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0028",
+            "name": "glitch hat",
+            "author": "PhasmoFireGod",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0029",
+            "name": "harrie hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0030",
+            "name": "jamobo hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0031",
+            "name": "jose hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0032",
+            "name": "junkyard hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0033",
+            "name": "justjames hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0034",
+            "name": "kara hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0035",
+            "name": "mama hat",
+            "author": "PhasmoFireGod",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0036",
+            "name": "kay hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0037",
+            "name": "lawhoo hat",
+            "author": "LaWhooligan",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0038",
+            "name": "lewis hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0039",
+            "name": "lexiemarie hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0040",
+            "name": "mindy hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0041",
+            "name": "nerdout hat",
+            "author": "Taamoy",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0042",
+            "name": "nilesy hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0043",
+            "name": "nonbinary hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0044",
+            "name": "ozza hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0045",
+            "name": "pansexual hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0046",
+            "name": "pastaroni hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0047",
+            "name": "ped hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0048",
+            "name": "phoebe hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0049",
+            "name": "ravs hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0050",
+            "name": "razzbowski hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0051",
+            "name": "rhythian hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0052",
+            "name": "shubble hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0053",
+            "name": "sips hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0054",
+            "name": "stumpy hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0055",
+            "name": "toby hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0056",
+            "name": "tomcraven hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0057",
+            "name": "trans_1 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0058",
+            "name": "trans_2 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0059",
+            "name": "trans_3 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0060",
+            "name": "trans_4 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0061",
+            "name": "vikram_1 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0062",
+            "name": "vikram_2 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0063",
+            "name": "wolfabelle hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0064",
+            "name": "zeroyalviking hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0065",
+            "name": "falcone hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0066",
+            "name": "pinkee hat",
+            "author": "PhasmoFireGod",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0067",
+            "name": "racoon hat",
+            "author": "PhasmoFireGod",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0068",
+            "name": "firegod hat",
+            "author": "PhasmoFireGod",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0069",
+            "name": "slushie hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0070",
+            "name": "dad hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0071",
+            "name": "platty halloween hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0072",
+            "name": "cheesy halloween hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0073",
+            "name": "chilled halloween hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0074",
+            "name": "zeroyalviking halloween hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0075",
+            "name": "fox hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0076",
+            "name": "frog hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0077",
+            "name": "pig hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0078",
+            "name": "owl hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0079",
+            "name": "witch hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0080",
+            "name": "goldfish hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0081",
+            "name": "ctulhu hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0082",
+            "name": "spider hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0083",
+            "name": "crocodile hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0084",
+            "name": "A Knoife! hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0085",
+            "name": "Blush-stache hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0086",
+            "name": "BTW hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0087",
+            "name": "Flower Fedora hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0088",
+            "name": "Gigawolf hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0089",
+            "name": "Good Aura hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0090",
+            "name": "Guardian Angel hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0091",
+            "name": "Horned Angel hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0092",
+            "name": "Kartodk Evil hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0093",
+            "name": "Kartodk Sus hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0094",
+            "name": "Lavish hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0095",
+            "name": "Lie-canthrope hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0096",
+            "name": "Overgrown hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0097",
+            "name": "Press X hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0098",
+            "name": "Rico's Navy hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0099",
+            "name": "Sav Beanie hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0100",
+            "name": "Sparkles! hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0101",
+            "name": "Specs n' Antlers hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0102",
+            "name": "Stylish Witch hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0103",
+            "name": "Tropic Beach hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0104",
+            "name": "ash_2 hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0105",
+            "name": "blood_bourne_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0106",
+            "name": "goku_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0107",
+            "name": "queenie_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0108",
+            "name": "tissue_box_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0109",
+            "name": "your_mom_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0110",
+            "name": "mantis_shrimpling_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0111",
+            "name": "luffy_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0112",
+            "name": "carnage_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0113",
+            "name": "stebon_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0114",
+            "name": "harley_quinn_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0115",
+            "name": "weasel_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0116",
+            "name": "dino_egg_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0117",
+            "name": "skater_girl_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0118",
+            "name": "sims_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0119",
+            "name": "shrimp_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0120",
+            "name": "pepe_hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0121",
+            "name": "dwarf hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0122",
+            "name": "rooster hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0123",
+            "name": "monster hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0124",
+            "name": "Cyreni's Pony hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0125",
+            "name": "Oreos hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0126",
+            "name": "Soyciety hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0127",
+            "name": "Tsedtacle hat",
+            "author": "Tsed",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0128",
+            "name": "Big Shot hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0129",
+            "name": "L hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0130",
+            "name": "Menacing hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0131",
+            "name": "No U hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0132",
+            "name": "Okey hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0133",
+            "name": "sans hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0134",
+            "name": "Squid hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0135",
+            "name": "Wimpy Kid hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0136",
+            "name": "Cros Style hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0137",
+            "name": "Novasauros hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0138",
+            "name": "Peppercorny hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0139",
+            "name": "Rainy Day hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0140",
+            "name": "Scarf Gang hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0141",
+            "name": "So Devilish hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0142",
+            "name": "Huntress hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0143",
+            "name": "You're so Salty! hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0144",
+            "name": "LayZFox hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0145",
+            "name": "Impostor Spark hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0146",
+            "name": "X-Ray hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0147",
+            "name": "Pap hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0148",
+            "name": "Cocoa hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0149",
+            "name": "Doused hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0150",
+            "name": "Fluffy Boi hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0151",
+            "name": "Hot Saucy hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0152",
+            "name": "ImPAWstor hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0153",
+            "name": "MMMM hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0154",
+            "name": "Bad Aura hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0155",
+            "name": "Dunce hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0156",
+            "name": "Gay-ny Day hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0157",
+            "name": "Marionette hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0158",
+            "name": "Random Ronnie hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0159",
+            "name": "Disconnected hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0160",
+            "name": "Lunch hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0161",
+            "name": "Peace Never! hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0162",
+            "name": "Amcam hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0163",
+            "name": "Book Of Sus hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0164",
+            "name": "Caramilk hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0165",
+            "name": "DJSmiles hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0166",
+            "name": "DrunkyPoo hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0167",
+            "name": "HoliGhost hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0168",
+            "name": "ImpTongue hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0169",
+            "name": "Jessie hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0170",
+            "name": "L hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0171",
+            "name": "Paws hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0172",
+            "name": "Potterhead hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0173",
+            "name": "Lil Swift hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0174",
+            "name": "Sableye hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0175",
+            "name": "Sheriff hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0176",
+            "name": "Steampunk hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0177",
+            "name": "Steampunk Look hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0178",
+            "name": "Sushub hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0179",
+            "name": "Susotion hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0180",
+            "name": "Bee hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0181",
+            "name": "T-Rex hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0182",
+            "name": "Maid hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0183",
+            "name": "Koji hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0184",
+            "name": "Ellum hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0185",
+            "name": "Koji Maid hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0186",
+            "name": "jeremy hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0187",
+            "name": "kDoolz hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0188",
+            "name": "tenma hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0189",
+            "name": "jukebox hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0190",
+            "name": "PK Fire hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0191",
+            "name": "Termy Boi hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0192",
+            "name": "Tippy hat",
+            "author": "LayZ",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0193",
+            "name": "Akatsuki hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0194",
+            "name": "Bearded Grizzly hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0195",
+            "name": "Dumbdog hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0196",
+            "name": "Eyeball hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0197",
+            "name": "Friday Night Funkin hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0198",
+            "name": "Friday Night Funkin hat 2 ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0199",
+            "name": "Jerm hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0200",
+            "name": "Milky Joe hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0201",
+            "name": "Monkeh hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0202",
+            "name": "Pink hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0203",
+            "name": "Sugarcat hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0204",
+            "name": "Zombie hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0205",
+            "name": "Iron Man hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0206",
+            "name": "Thanos hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0207",
+            "name": "Side Arms hat",
+            "author": "Ghost_ejims",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0208",
+            "name": "Kara hat 2 ",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0209",
+            "name": "Bergmeister hat",
+            "author": "Bergmeister",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0210",
+            "name": "Chrome hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0211",
+            "name": "Dabi hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0212",
+            "name": "James hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0213",
+            "name": "Meowth hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0214",
+            "name": "Mudkip hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0215",
+            "name": "Patrick Jenner hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0216",
+            "name": "Ravenclaw hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0217",
+            "name": "Taxi hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0218",
+            "name": "The Witcher hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0219",
+            "name": "Blue Dream hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0220",
+            "name": "BrittanyP95 Treasure hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0221",
+            "name": "Chibiusa hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0222",
+            "name": "Cynda hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0223",
+            "name": "Chicky Tenders hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0224",
+            "name": "Chicky Tenders Sauce hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0225",
+            "name": "Demogorgan hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0226",
+            "name": "Detective hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0227",
+            "name": "Fairy hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0228",
+            "name": "FengPJ hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0229",
+            "name": "Freckled Phenom hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0230",
+            "name": "Golden Boi hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0231",
+            "name": "Hold My Beer hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0232",
+            "name": "Huntress hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0233",
+            "name": "Kate hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0234",
+            "name": "Lil Too Much hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0235",
+            "name": "Liv Chipz Periodt hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0236",
+            "name": "Mac Vibes hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0237",
+            "name": "McRib hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0238",
+            "name": "Nurse hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0239",
+            "name": "Periodt hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0240",
+            "name": "Petty Perkins hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0241",
+            "name": "Pilborg It Me hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0242",
+            "name": "Sailor Steve hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0243",
+            "name": "Sweetroll hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0244",
+            "name": "Taste The Rainbow hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0245",
+            "name": "Tux hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0246",
+            "name": "Undead Marah hat",
+            "author": "Sweetrolled",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0247",
+            "name": "Kn0vis hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0248",
+            "name": "Anya hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0249",
+            "name": "Pizza hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0250",
+            "name": "Gaara hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0251",
+            "name": "Hinata hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0252",
+            "name": "MartiMoo hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0253",
+            "name": "Roman hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0254",
+            "name": "Purple Shark hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0255",
+            "name": "Umbreon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0256",
+            "name": "Virgil hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0257",
+            "name": "Side Arms hat 2 ",
+            "author": "Ghost_ejims",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0258",
+            "name": "Rawbuhbuh hat",
+            "author": "NightRaiderTea",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0259",
+            "name": "HeyMcGurk hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0260",
+            "name": "Tuskspicious hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0261",
+            "name": "Bunnies hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0262",
+            "name": "Mushroom hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0263",
+            "name": "Red Panda hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0264",
+            "name": "Wizard hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0265",
+            "name": "Courtilly hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0266",
+            "name": "Mods hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0267",
+            "name": "NoiBat hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0268",
+            "name": "Shmuelzys Piss Bucket hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0269",
+            "name": "Zavvygamer hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0270",
+            "name": "Bill Cipher hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0271",
+            "name": "Blossom hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0272",
+            "name": "Bubbles hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0273",
+            "name": "Buttercup hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0274",
+            "name": "Dell hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0275",
+            "name": "Gengar hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0276",
+            "name": "Grumpy Cat hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0277",
+            "name": "Ksmac3 hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0278",
+            "name": "Pennywise hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0279",
+            "name": "Redneck hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0280",
+            "name": "Red Body hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0281",
+            "name": "Pink Body hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0282",
+            "name": "Yellow Body hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0283",
+            "name": "Nogla hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0284",
+            "name": "Wildcat hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0285",
+            "name": "Olive Kruzadar hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0286",
+            "name": "Red Kruzadar hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0287",
+            "name": "Koala hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0288",
+            "name": "Raptor hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0289",
+            "name": "Kangaroo hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0290",
+            "name": "HeckMuffins hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0291",
+            "name": "HecksAmphy hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0292",
+            "name": "Ophidian hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0293",
+            "name": "Rikiisnotaferet hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0294",
+            "name": "SpiceRat hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0295",
+            "name": "Spicesjolt hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0296",
+            "name": "RicKafe hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0297",
+            "name": "Caracupcake hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0298",
+            "name": "Cosmicara hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0299",
+            "name": "Crabcake hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0300",
+            "name": "McMayhem hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0301",
+            "name": "MissJersey hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0302",
+            "name": "Quonk Gun hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0303",
+            "name": "SlackATK hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0304",
+            "name": "AstasApple hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0305",
+            "name": "CaptainStoppy hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0306",
+            "name": "Casper hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0307",
+            "name": "DawnsHotMama hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0308",
+            "name": "DSCGluttony hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0309",
+            "name": "FairysBlueFox hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0310",
+            "name": "Japanda hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0311",
+            "name": "Lanaboo hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0312",
+            "name": "Panda Pride hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0313",
+            "name": "Shiny Psyduck hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0314",
+            "name": "Snorlax hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0315",
+            "name": "Tessany Beauty hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0316",
+            "name": "Xallysahoney hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0317",
+            "name": "Shmuelzy hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0318",
+            "name": "Inmouth hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0319",
+            "name": "Teeth hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0320",
+            "name": "Thing hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0321",
+            "name": "Tongue hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0322",
+            "name": "Xeno hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0323",
+            "name": "Side Arms hat 2 alt ",
+            "author": "Ghost_ejims",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0324",
+            "name": "Basedkm hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0325",
+            "name": "CaspersGrovyle hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0326",
+            "name": "CowboyMav hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0327",
+            "name": "DigDuck hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0328",
+            "name": "DougDimadome hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0329",
+            "name": "JapandasSkitty hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0330",
+            "name": "Magikarp hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0331",
+            "name": "Nidoking hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0332",
+            "name": "QuirtysPolywhirl hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0333",
+            "name": "Salamence hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0334",
+            "name": "WolvsMimikyu hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0335",
+            "name": "CoriKasarak hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0336",
+            "name": "Jigglypuff hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0337",
+            "name": "KojiSkunk hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0338",
+            "name": "Wailord hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0339",
+            "name": "Boar hat ",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0340",
+            "name": "Creepy Doll hat ",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0341",
+            "name": "Raven hat ",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0342",
+            "name": "Trenchcoat hat ",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0343",
+            "name": "Blaziken hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0344",
+            "name": "Carriemello hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0345",
+            "name": "Paradox Monkey hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0346",
+            "name": "GooseTroop hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0347",
+            "name": "Jerry hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0348",
+            "name": "Loweye hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0349",
+            "name": "Lucas hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0350",
+            "name": "NewHeckMuffins hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0351",
+            "name": "OogieBoogie hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0352",
+            "name": "RikisFerret hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0353",
+            "name": "Tinkerbell hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0354",
+            "name": "Troubella hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0355",
+            "name": "Valak hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0356",
+            "name": "Bait hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0357",
+            "name": "Chickenz hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0359",
+            "name": "HecksBunBun hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0360",
+            "name": "MxJosie hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0362",
+            "name": "Gfro hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0363",
+            "name": "GfrosLopunny hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0364",
+            "name": "MarylinMonroe hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0365",
+            "name": "SailorMoon hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0366",
+            "name": "SusCrown hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0367",
+            "name": "Chocoberry hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0368",
+            "name": "ChocoPun hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0369",
+            "name": "Gomez hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0370",
+            "name": "Wednesday hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0371",
+            "name": "Michael Myers hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0372",
+            "name": "Strawberry hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0373",
+            "name": "Yey Billy hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0374",
+            "name": "Breakfast Boba hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0375",
+            "name": "Little Death hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0376",
+            "name": "Little Jester hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0377",
+            "name": "Little Mage hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0378",
+            "name": "Little Pirate hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0379",
+            "name": "G7erard hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0380",
+            "name": "COTC hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0381",
+            "name": "Facehugger hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0382",
+            "name": "Maks hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0383",
+            "name": "Xenomorph Queen hat ",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0384",
+            "name": "Cruella hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0385",
+            "name": "Moth hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0386",
+            "name": "Necro hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0387",
+            "name": "Shaman hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0388",
+            "name": "Assassin hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0389",
+            "name": "Death hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0390",
+            "name": "bgcbigs hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0391",
+            "name": "Jshooa hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0392",
+            "name": "Lechonk hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0393",
+            "name": "PossibleBear hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0394",
+            "name": "Little Angel hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0395",
+            "name": "Little Demon hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0396",
+            "name": "Little Red Riding Hood hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0397",
+            "name": "Little Sheriff hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0398",
+            "name": "Little Chef hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0399",
+            "name": "Little Evil Queen hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0400",
+            "name": "SpicesPawmont hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0401",
+            "name": "Little Gnome hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0402",
+            "name": "Little Krampus hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0403",
+            "name": "Little Santa hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0404",
+            "name": "CandyCane hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0405",
+            "name": "GingerbreadMan hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0406",
+            "name": "Present hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0407",
+            "name": "Reindeer hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0408",
+            "name": "Santa hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0409",
+            "name": "Snowman hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0410",
+            "name": "GingerbreadHouse hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0411",
+            "name": "NohsAraquanio hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0412",
+            "name": "Bodybuilder hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0413",
+            "name": "Bosa hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0414",
+            "name": "Cluckers hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0415",
+            "name": "Manatee hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0416",
+            "name": "MikeDotTV hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0417",
+            "name": "Mr T hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0418",
+            "name": "Salmon hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0419",
+            "name": "Tatsugiri hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0420",
+            "name": "Wonton hat ",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0421",
+            "name": "Heckinmoo hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0422",
+            "name": "JarrelBun hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0423",
+            "name": "Jessica hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0424",
+            "name": "MartiMoo hat 2 ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0425",
+            "name": "Oilers hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0426",
+            "name": "TechnicalMoon hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0427",
+            "name": "Giddawid hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0428",
+            "name": "Kurtgi hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0429",
+            "name": "ThisIsFine hat ",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0430",
+            "name": "Platy Mayo hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0431",
+            "name": "Princess Zeach hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0432",
+            "name": "Firemage hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0433",
+            "name": "Peter Griffin hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0434",
+            "name": "Hovpool hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0435",
+            "name": "Spiderhov hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0436",
+            "name": "Espeon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0437",
+            "name": "Evee hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0438",
+            "name": "Flareon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0439",
+            "name": "Glaceon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0440",
+            "name": "Leafeon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0441",
+            "name": "Sylveon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0442",
+            "name": "Umbreon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0443",
+            "name": "Vaporeon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0444",
+            "name": "Jolteon hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0445",
+            "name": "CB hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0446",
+            "name": "Dangorpa hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0447",
+            "name": "Galaxybrain hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0448",
+            "name": "IchigoHollow hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0449",
+            "name": "Tessany Beauty Warrior hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0450",
+            "name": "Pikabubs hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0451",
+            "name": "Slayed hat",
+            "author": "Sarinjin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0452",
+            "name": "BlackCat hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0453",
+            "name": "GingerCat hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0454",
+            "name": "Crab hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0455",
+            "name": "GooglyEyes hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0456",
+            "name": "Qthulhu hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0457",
+            "name": "Tiki hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0458",
+            "name": "jb hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0459",
+            "name": "WingsBodyBuilder hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0460",
+            "name": "5up hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0461",
+            "name": "Angel Is Kimi hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0462",
+            "name": "DK hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0463",
+            "name": "Dumbdog hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0464",
+            "name": "Ellum hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0465",
+            "name": "Hafu Penguin hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0466",
+            "name": "Koji hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0467",
+            "name": "Smajor hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0468",
+            "name": "Steve hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0469",
+            "name": "vGumiho hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0470",
+            "name": "xChocobars hat",
+            "author": "Rum",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0471",
+            "name": "AfroBush hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0472",
+            "name": "Chai hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0473",
+            "name": "MrBeast hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0474",
+            "name": "NeonBuns hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0475",
+            "name": "Snow Leopard hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0476",
+            "name": "Unicorn Hairband hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0477",
+            "name": "Wheelchair hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0478",
+            "name": "Gligar hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0479",
+            "name": "Manbag hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0480",
+            "name": "MinecraftSteve hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0481",
+            "name": "Ninmuffin hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0482",
+            "name": "Ribbonman hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0483",
+            "name": "Sora hat",
+            "author": "Ophidian",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0484",
+            "name": "CabociTV hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0485",
+            "name": "Cat hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0486",
+            "name": "Cream Unicorn hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0487",
+            "name": "Zod hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0488",
+            "name": "Poseidon's Crown hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0489",
+            "name": "The True King hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0490",
+            "name": "Titans hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0491",
+            "name": "Wreath hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0492",
+            "name": "Golden Wreath hat",
+            "author": "SugaNope",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0493",
+            "name": "Little Antoinette hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0494",
+            "name": "Little Golem hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "hats0495",
+            "name": "Little Jason hat",
+            "author": "Pigoletto",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0000",
+            "name": "ZeroXFusionz hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0002",
+            "name": "wrench_f hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0003",
+            "name": "vince_foot_front hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0004",
+            "name": "vince_front hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0007",
+            "name": "stitch hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0008",
+            "name": "shrek hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0009",
+            "name": "revmeerkat_front hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0010",
+            "name": "reenyy hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0011",
+            "name": "rayc hat",
+            "author": "tori#1277",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0015",
+            "name": "Paule_front hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0020",
+            "name": "groot hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0021",
+            "name": "gorillaphent_f hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "misc0022",
+            "name": "gh00stie_f hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0000",
+            "name": "pot hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0001",
+            "name": "box hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0002",
+            "name": "eye hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0003",
+            "name": "fundy hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0004",
+            "name": "sykkuno hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0005",
+            "name": "5up hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0006",
+            "name": "crumb hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0007",
+            "name": "sussy hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0008",
+            "name": "penguin hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0009",
+            "name": "dolphin hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0010",
+            "name": "skull hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0011",
+            "name": "croissant hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0012",
+            "name": "platypus hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0013",
+            "name": "vines hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0014",
+            "name": "5up scarf hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0015",
+            "name": "baby hat",
+            "author": "acron",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "myhats0016",
+            "name": "raflp hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0000",
+            "name": "wendy hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0001",
+            "name": "waffle hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0002",
+            "name": "Voteme hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0003",
+            "name": "squirrel hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0004",
+            "name": "shiki hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0005",
+            "name": "rollups hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0006",
+            "name": "rocky hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0007",
+            "name": "pepe hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0008",
+            "name": "penguinface_front hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0009",
+            "name": "pancakes hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0010",
+            "name": "masayoshi hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0011",
+            "name": "leah hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0012",
+            "name": "kris hat",
+            "author": "tori#1277",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0013",
+            "name": "jodi hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0014",
+            "name": "jerm hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0015",
+            "name": "janet hat",
+            "author": "tori#1277",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0016",
+            "name": " hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0017",
+            "name": "hafu hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0018",
+            "name": "giacomo hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0019",
+            "name": "Frog hat redesign",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0020",
+            "name": "frenchtoast hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0021",
+            "name": "fire hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0022",
+            "name": "crunchy hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0023",
+            "name": "couve hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0024",
+            "name": "charizard hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0025",
+            "name": "buffyhelmet hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0026",
+            "name": "buffyarms hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0027",
+            "name": "buffy hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0028",
+            "name": "brizzyears hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0029",
+            "name": "br00d hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0030",
+            "name": "blaustoise hat",
+            "author": "tori#1277",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0031",
+            "name": "bird hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0032",
+            "name": "birb hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0033",
+            "name": "bestcrewmate hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0034",
+            "name": "basetrade_3 hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0035",
+            "name": "basetrade_2 hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0036",
+            "name": "basetrade_1 hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0037",
+            "name": "ash hat",
+            "author": "",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0038",
+            "name": "_hat",
+            "author": "TheLastShaymin",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0039",
+            "name": "Snapper hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0040",
+            "name": "Slippy hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0041",
+            "name": "Frog hat",
+            "author": "Ressnie",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0042",
+            "name": "Jessie Monkey hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0043",
+            "name": "Sunflower hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0044",
+            "name": "Juicebox hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0045",
+            "name": "Crow hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0046",
+            "name": "Ghost hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0047",
+            "name": "Pumpkin hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0048",
+            "name": "Cat Helmet hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0049",
+            "name": "Cat Helmet With Apron hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0050",
+            "name": "Zeta Mark V hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0051",
+            "name": "Billy Butcher hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0052",
+            "name": "Queen Maeve hat",
+            "author": "Little Doo Doo",
+            "condition": "None",
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "standard0053",
+            "name": "Starlight hat",
+            "author": "Little Doo Doo"
+          }
     ]
 }
