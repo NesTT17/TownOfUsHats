@@ -1,14 +1,6 @@
 {
     "hats": [
         {
-            "resource": "hats0000.png",
-            "name": "annamaja hat",
-            "author": "TheLastShaymin",
-            "condition": "None",
-            "package": "Town Of Us Hats",
-            "modpack": "TOU"
-        },
-        {
             "resource": "hats0000",
             "name": "annamaja hat",
             "author": "TheLastShaymin",
@@ -815,7 +807,7 @@
             "condition": "None",
             "package": "Town Of Us Hats",
             "modpack": "TOU"
-        }/*,
+        },
         {
             "resource": "hats0101",
             "name": "Specs n' Antlers hat",
