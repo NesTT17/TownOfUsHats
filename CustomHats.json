@@ -5,28 +5,32 @@
             "condition": "None",
             "name": "annamaja hat",
             "package": "Town Of Us Hats",
-            "resource": "hats0000.png"
+            "resource": "hats0000.png",
+            "modpack": "TOU"
         },
         {
             "author": "TheLastShaymin",
             "condition": "None",
             "name": "zylus hat",
             "package": "Town Of Us Hats",
-            "resource": "hats0001.png"
+            "resource": "hats0001.png",
+            "modpack": "TOU"
         },
         {
             "author": "TheLastShaymin",
             "condition": "None",
             "name": "anniefuschia hat",
             "package": "Town Of Us Hats",
-            "resource": "hats0002.png"
+            "resource": "hats0002.png",
+            "modpack": "TOU"
         },
         {
             "author": "Pigoletto",
             "condition": "None",
             "name": "aphex hat",
             "package": "Town Of Us Hats",
-            "resource": "hats0003.png"
+            "resource": "hats0003.png",
+            "modpack": "TOU"
         }
     ]
 }
