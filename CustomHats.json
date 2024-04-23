@@ -815,7 +815,7 @@
             "condition": "None",
             "package": "Town Of Us Hats",
             "modpack": "TOU"
-        },
+        }/*,
         {
             "resource": "hats0101",
             "name": "Specs n' Antlers hat",
@@ -4628,6 +4628,6 @@
             "resource": "standard0053",
             "name": "Starlight hat",
             "author": "Little Doo Doo"
-          }
+          }*/
     ]
 }
