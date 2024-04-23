@@ -1,7 +1,7 @@
 {
     "hats": [
         {
-            "resource": "hats0000",
+            "resource": "hats0000.png",
             "name": "annamaja hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -9,7 +9,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0001",
+            "resource": "hats0001.png",
             "name": "zylus hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -17,7 +17,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0002",
+            "resource": "hats0002.png",
             "name": "anniefuschia hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -25,7 +25,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0003",
+            "resource": "hats0003.png",
             "name": "aphex hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -33,7 +33,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0004",
+            "resource": "hats0004.png",
             "name": "aplatypuss hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -41,7 +41,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0005",
+            "resource": "hats0005.png",
             "name": " asexual hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -49,7 +49,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0006",
+            "resource": "hats0006.png",
             "name": "ash_1 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -57,7 +57,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0007",
+            "resource": "hats0007.png",
             "name": "ash_1 hat flipped",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -65,7 +65,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0008",
+            "resource": "hats0008.png",
             "name": "axilla hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -73,7 +73,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0009",
+            "resource": "hats0009.png",
             "name": "ben hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -81,7 +81,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0010",
+            "resource": "hats0010.png",
             "name": "besty hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -89,7 +89,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0011",
+            "resource": "hats0011.png",
             "name": "bisexual hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -97,7 +97,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0012",
+            "resource": "hats0012.png",
             "name": "bloody hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -105,7 +105,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0013",
+            "resource": "hats0013.png",
             "name": "boba hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -113,7 +113,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0014",
+            "resource": "hats0014.png",
             "name": "breeh hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -121,7 +121,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0015",
+            "resource": "hats0015.png",
             "name": "brittzey hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -129,7 +129,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0016",
+            "resource": "hats0016.png",
             "name": "cheesy hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -137,7 +137,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0017",
+            "resource": "hats0017.png",
             "name": "chilledchaos hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -145,7 +145,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0018",
+            "resource": "hats0018.png",
             "name": "clara hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -153,7 +153,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0019",
+            "resource": "hats0019.png",
             "name": "dawko hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -161,7 +161,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0020",
+            "resource": "hats0020.png",
             "name": "dizzilulu hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -169,7 +169,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0021",
+            "resource": "hats0021.png",
             "name": "duncan hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -177,7 +177,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0022",
+            "resource": "hats0022.png",
             "name": "dyto hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -185,7 +185,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0023",
+            "resource": "hats0023.png",
             "name": "ellum hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -193,7 +193,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0024",
+            "resource": "hats0024.png",
             "name": "falcone_1 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -201,7 +201,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0025",
+            "resource": "hats0025.png",
             "name": "freyzplayz hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -209,7 +209,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0026",
+            "resource": "hats0026.png",
             "name": "garbage hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -217,7 +217,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0027",
+            "resource": "hats0027.png",
             "name": "gay hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -225,7 +225,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0028",
+            "resource": "hats0028.png",
             "name": "glitch hat",
             "author": "PhasmoFireGod",
             "condition": "None",
@@ -233,7 +233,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0029",
+            "resource": "hats0029.png",
             "name": "harrie hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -241,7 +241,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0030",
+            "resource": "hats0030.png",
             "name": "jamobo hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -249,7 +249,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0031",
+            "resource": "hats0031.png",
             "name": "jose hat",
             "author": "Ressnie",
             "condition": "None",
@@ -257,7 +257,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0032",
+            "resource": "hats0032.png",
             "name": "junkyard hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -265,7 +265,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0033",
+            "resource": "hats0033.png",
             "name": "justjames hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -273,7 +273,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0034",
+            "resource": "hats0034.png",
             "name": "kara hat",
             "author": "Ressnie",
             "condition": "None",
@@ -281,7 +281,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0035",
+            "resource": "hats0035.png",
             "name": "mama hat",
             "author": "PhasmoFireGod",
             "condition": "None",
@@ -289,7 +289,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0036",
+            "resource": "hats0036.png",
             "name": "kay hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -297,7 +297,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0037",
+            "resource": "hats0037.png",
             "name": "lawhoo hat",
             "author": "LaWhooligan",
             "condition": "None",
@@ -305,7 +305,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0038",
+            "resource": "hats0038.png",
             "name": "lewis hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -313,7 +313,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0039",
+            "resource": "hats0039.png",
             "name": "lexiemarie hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -321,7 +321,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0040",
+            "resource": "hats0040.png",
             "name": "mindy hat",
             "author": "Ressnie",
             "condition": "None",
@@ -329,7 +329,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0041",
+            "resource": "hats0041.png",
             "name": "nerdout hat",
             "author": "Taamoy",
             "condition": "None",
@@ -337,7 +337,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0042",
+            "resource": "hats0042.png",
             "name": "nilesy hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -345,7 +345,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0043",
+            "resource": "hats0043.png",
             "name": "nonbinary hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -353,7 +353,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0044",
+            "resource": "hats0044.png",
             "name": "ozza hat",
             "author": "Ressnie",
             "condition": "None",
@@ -361,7 +361,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0045",
+            "resource": "hats0045.png",
             "name": "pansexual hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -369,7 +369,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0046",
+            "resource": "hats0046.png",
             "name": "pastaroni hat",
             "author": "Ressnie",
             "condition": "None",
@@ -377,7 +377,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0047",
+            "resource": "hats0047.png",
             "name": "ped hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -385,7 +385,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0048",
+            "resource": "hats0048.png",
             "name": "phoebe hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -393,7 +393,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0049",
+            "resource": "hats0049.png",
             "name": "ravs hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -401,7 +401,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0050",
+            "resource": "hats0050.png",
             "name": "razzbowski hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -409,7 +409,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0051",
+            "resource": "hats0051.png",
             "name": "rhythian hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -417,7 +417,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0052",
+            "resource": "hats0052.png",
             "name": "shubble hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -425,7 +425,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0053",
+            "resource": "hats0053.png",
             "name": "sips hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -433,7 +433,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0054",
+            "resource": "hats0054.png",
             "name": "stumpy hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -441,7 +441,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0055",
+            "resource": "hats0055.png",
             "name": "toby hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -449,7 +449,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0056",
+            "resource": "hats0056.png",
             "name": "tomcraven hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -457,7 +457,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0057",
+            "resource": "hats0057.png",
             "name": "trans_1 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -465,7 +465,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0058",
+            "resource": "hats0058.png",
             "name": "trans_2 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -473,7 +473,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0059",
+            "resource": "hats0059.png",
             "name": "trans_3 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -481,7 +481,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0060",
+            "resource": "hats0060.png",
             "name": "trans_4 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -489,7 +489,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0061",
+            "resource": "hats0061.png",
             "name": "vikram_1 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -497,7 +497,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0062",
+            "resource": "hats0062.png",
             "name": "vikram_2 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -505,7 +505,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0063",
+            "resource": "hats0063.png",
             "name": "wolfabelle hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -513,7 +513,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0064",
+            "resource": "hats0064.png",
             "name": "zeroyalviking hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -521,7 +521,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0065",
+            "resource": "hats0065.png",
             "name": "falcone hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -529,7 +529,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0066",
+            "resource": "hats0066.png",
             "name": "pinkee hat",
             "author": "PhasmoFireGod",
             "condition": "None",
@@ -537,7 +537,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0067",
+            "resource": "hats0067.png",
             "name": "racoon hat",
             "author": "PhasmoFireGod",
             "condition": "None",
@@ -545,7 +545,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0068",
+            "resource": "hats0068.png",
             "name": "firegod hat",
             "author": "PhasmoFireGod",
             "condition": "None",
@@ -553,7 +553,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0069",
+            "resource": "hats0069.png",
             "name": "slushie hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -561,7 +561,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0070",
+            "resource": "hats0070.png",
             "name": "dad hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -569,7 +569,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0071",
+            "resource": "hats0071.png",
             "name": "platty halloween hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -577,7 +577,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0072",
+            "resource": "hats0072.png",
             "name": "cheesy halloween hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -585,7 +585,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0073",
+            "resource": "hats0073.png",
             "name": "chilled halloween hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -593,7 +593,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0074",
+            "resource": "hats0074.png",
             "name": "zeroyalviking halloween hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -601,7 +601,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0075",
+            "resource": "hats0075.png",
             "name": "fox hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -609,7 +609,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0076",
+            "resource": "hats0076.png",
             "name": "frog hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -617,7 +617,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0077",
+            "resource": "hats0077.png",
             "name": "pig hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -625,7 +625,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0078",
+            "resource": "hats0078.png",
             "name": "owl hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -633,7 +633,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0079",
+            "resource": "hats0079.png",
             "name": "witch hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -641,7 +641,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0080",
+            "resource": "hats0080.png",
             "name": "goldfish hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -649,7 +649,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0081",
+            "resource": "hats0081.png",
             "name": "ctulhu hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -657,7 +657,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0082",
+            "resource": "hats0082.png",
             "name": "spider hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -665,7 +665,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0083",
+            "resource": "hats0083.png",
             "name": "crocodile hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -673,7 +673,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0084",
+            "resource": "hats0084.png",
             "name": "A Knoife! hat",
             "author": "SugaNope",
             "condition": "None",
@@ -681,7 +681,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0085",
+            "resource": "hats0085.png",
             "name": "Blush-stache hat",
             "author": "SugaNope",
             "condition": "None",
@@ -689,7 +689,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0086",
+            "resource": "hats0086.png",
             "name": "BTW hat",
             "author": "SugaNope",
             "condition": "None",
@@ -697,7 +697,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0087",
+            "resource": "hats0087.png",
             "name": "Flower Fedora hat",
             "author": "SugaNope",
             "condition": "None",
@@ -705,7 +705,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0088",
+            "resource": "hats0088.png",
             "name": "Gigawolf hat",
             "author": "SugaNope",
             "condition": "None",
@@ -713,7 +713,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0089",
+            "resource": "hats0089.png",
             "name": "Good Aura hat",
             "author": "SugaNope",
             "condition": "None",
@@ -721,7 +721,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0090",
+            "resource": "hats0090.png",
             "name": "Guardian Angel hat",
             "author": "SugaNope",
             "condition": "None",
@@ -729,7 +729,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0091",
+            "resource": "hats0091.png",
             "name": "Horned Angel hat",
             "author": "SugaNope",
             "condition": "None",
@@ -737,7 +737,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0092",
+            "resource": "hats0092.png",
             "name": "Kartodk Evil hat",
             "author": "SugaNope",
             "condition": "None",
@@ -745,7 +745,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0093",
+            "resource": "hats0093.png",
             "name": "Kartodk Sus hat",
             "author": "SugaNope",
             "condition": "None",
@@ -753,7 +753,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0094",
+            "resource": "hats0094.png",
             "name": "Lavish hat",
             "author": "SugaNope",
             "condition": "None",
@@ -761,7 +761,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0095",
+            "resource": "hats0095.png",
             "name": "Lie-canthrope hat",
             "author": "SugaNope",
             "condition": "None",
@@ -769,7 +769,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0096",
+            "resource": "hats0096.png",
             "name": "Overgrown hat",
             "author": "SugaNope",
             "condition": "None",
@@ -777,7 +777,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0097",
+            "resource": "hats0097.png",
             "name": "Press X hat",
             "author": "SugaNope",
             "condition": "None",
@@ -785,7 +785,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0098",
+            "resource": "hats0098.png",
             "name": "Rico's Navy hat",
             "author": "SugaNope",
             "condition": "None",
@@ -793,7 +793,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0099",
+            "resource": "hats0099.png",
             "name": "Sav Beanie hat",
             "author": "SugaNope",
             "condition": "None",
@@ -801,7 +801,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0100",
+            "resource": "hats0100.png",
             "name": "Sparkles! hat",
             "author": "SugaNope",
             "condition": "None",
@@ -809,7 +809,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0101",
+            "resource": "hats0101.png",
             "name": "Specs n' Antlers hat",
             "author": "SugaNope",
             "condition": "None",
@@ -817,7 +817,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0102",
+            "resource": "hats0102.png",
             "name": "Stylish Witch hat",
             "author": "SugaNope",
             "condition": "None",
@@ -825,7 +825,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0103",
+            "resource": "hats0103.png",
             "name": "Tropic Beach hat",
             "author": "SugaNope",
             "condition": "None",
@@ -833,7 +833,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0104",
+            "resource": "hats0104.png",
             "name": "ash_2 hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -841,7 +841,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0105",
+            "resource": "hats0105.png",
             "name": "blood_bourne_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -849,7 +849,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0106",
+            "resource": "hats0106.png",
             "name": "goku_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -857,7 +857,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0107",
+            "resource": "hats0107.png",
             "name": "queenie_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -865,7 +865,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0108",
+            "resource": "hats0108.png",
             "name": "tissue_box_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -873,7 +873,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0109",
+            "resource": "hats0109.png",
             "name": "your_mom_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -881,7 +881,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0110",
+            "resource": "hats0110.png",
             "name": "mantis_shrimpling_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -889,7 +889,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0111",
+            "resource": "hats0111.png",
             "name": "luffy_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -897,7 +897,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0112",
+            "resource": "hats0112.png",
             "name": "carnage_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -905,7 +905,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0113",
+            "resource": "hats0113.png",
             "name": "stebon_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -913,7 +913,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0114",
+            "resource": "hats0114.png",
             "name": "harley_quinn_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -921,7 +921,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0115",
+            "resource": "hats0115.png",
             "name": "weasel_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -929,7 +929,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0116",
+            "resource": "hats0116.png",
             "name": "dino_egg_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -937,7 +937,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0117",
+            "resource": "hats0117.png",
             "name": "skater_girl_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -945,7 +945,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0118",
+            "resource": "hats0118.png",
             "name": "sims_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -953,7 +953,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0119",
+            "resource": "hats0119.png",
             "name": "shrimp_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -961,7 +961,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0120",
+            "resource": "hats0120.png",
             "name": "pepe_hat",
             "author": "Ophidian",
             "condition": "None",
@@ -969,7 +969,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0121",
+            "resource": "hats0121.png",
             "name": "dwarf hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -977,7 +977,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0122",
+            "resource": "hats0122.png",
             "name": "rooster hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -985,7 +985,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0123",
+            "resource": "hats0123.png",
             "name": "monster hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -993,7 +993,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0124",
+            "resource": "hats0124.png",
             "name": "Cyreni's Pony hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1001,7 +1001,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0125",
+            "resource": "hats0125.png",
             "name": "Oreos hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1009,7 +1009,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0126",
+            "resource": "hats0126.png",
             "name": "Soyciety hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1017,7 +1017,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0127",
+            "resource": "hats0127.png",
             "name": "Tsedtacle hat",
             "author": "Tsed",
             "condition": "None",
@@ -1025,7 +1025,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0128",
+            "resource": "hats0128.png",
             "name": "Big Shot hat",
             "author": "LayZ",
             "condition": "None",
@@ -1033,7 +1033,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0129",
+            "resource": "hats0129.png",
             "name": "L hat",
             "author": "LayZ",
             "condition": "None",
@@ -1041,7 +1041,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0130",
+            "resource": "hats0130.png",
             "name": "Menacing hat",
             "author": "LayZ",
             "condition": "None",
@@ -1049,7 +1049,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0131",
+            "resource": "hats0131.png",
             "name": "No U hat",
             "author": "LayZ",
             "condition": "None",
@@ -1057,7 +1057,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0132",
+            "resource": "hats0132.png",
             "name": "Okey hat",
             "author": "LayZ",
             "condition": "None",
@@ -1065,7 +1065,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0133",
+            "resource": "hats0133.png",
             "name": "sans hat",
             "author": "LayZ",
             "condition": "None",
@@ -1073,7 +1073,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0134",
+            "resource": "hats0134.png",
             "name": "Squid hat",
             "author": "LayZ",
             "condition": "None",
@@ -1081,7 +1081,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0135",
+            "resource": "hats0135.png",
             "name": "Wimpy Kid hat",
             "author": "LayZ",
             "condition": "None",
@@ -1089,7 +1089,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0136",
+            "resource": "hats0136.png",
             "name": "Cros Style hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1097,7 +1097,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0137",
+            "resource": "hats0137.png",
             "name": "Novasauros hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1105,7 +1105,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0138",
+            "resource": "hats0138.png",
             "name": "Peppercorny hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1113,7 +1113,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0139",
+            "resource": "hats0139.png",
             "name": "Rainy Day hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1121,7 +1121,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0140",
+            "resource": "hats0140.png",
             "name": "Scarf Gang hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1129,7 +1129,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0141",
+            "resource": "hats0141.png",
             "name": "So Devilish hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1137,7 +1137,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0142",
+            "resource": "hats0142.png",
             "name": "Huntress hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1145,7 +1145,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0143",
+            "resource": "hats0143.png",
             "name": "You're so Salty! hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1153,7 +1153,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0144",
+            "resource": "hats0144.png",
             "name": "LayZFox hat",
             "author": "LayZ",
             "condition": "None",
@@ -1161,7 +1161,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0145",
+            "resource": "hats0145.png",
             "name": "Impostor Spark hat",
             "author": "LayZ",
             "condition": "None",
@@ -1169,7 +1169,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0146",
+            "resource": "hats0146.png",
             "name": "X-Ray hat",
             "author": "LayZ",
             "condition": "None",
@@ -1177,7 +1177,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0147",
+            "resource": "hats0147.png",
             "name": "Pap hat",
             "author": "LayZ",
             "condition": "None",
@@ -1185,7 +1185,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0148",
+            "resource": "hats0148.png",
             "name": "Cocoa hat",
             "author": "LayZ",
             "condition": "None",
@@ -1193,7 +1193,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0149",
+            "resource": "hats0149.png",
             "name": "Doused hat",
             "author": "LayZ",
             "condition": "None",
@@ -1201,7 +1201,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0150",
+            "resource": "hats0150.png",
             "name": "Fluffy Boi hat",
             "author": "LayZ",
             "condition": "None",
@@ -1209,7 +1209,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0151",
+            "resource": "hats0151.png",
             "name": "Hot Saucy hat",
             "author": "LayZ",
             "condition": "None",
@@ -1217,7 +1217,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0152",
+            "resource": "hats0152.png",
             "name": "ImPAWstor hat",
             "author": "LayZ",
             "condition": "None",
@@ -1225,7 +1225,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0153",
+            "resource": "hats0153.png",
             "name": "MMMM hat",
             "author": "LayZ",
             "condition": "None",
@@ -1233,7 +1233,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0154",
+            "resource": "hats0154.png",
             "name": "Bad Aura hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1241,7 +1241,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0155",
+            "resource": "hats0155.png",
             "name": "Dunce hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1249,7 +1249,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0156",
+            "resource": "hats0156.png",
             "name": "Gay-ny Day hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1257,7 +1257,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0157",
+            "resource": "hats0157.png",
             "name": "Marionette hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1265,7 +1265,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0158",
+            "resource": "hats0158.png",
             "name": "Random Ronnie hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1273,7 +1273,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0159",
+            "resource": "hats0159.png",
             "name": "Disconnected hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1281,7 +1281,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0160",
+            "resource": "hats0160.png",
             "name": "Lunch hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1289,7 +1289,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0161",
+            "resource": "hats0161.png",
             "name": "Peace Never! hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1297,7 +1297,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0162",
+            "resource": "hats0162.png",
             "name": "Amcam hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1305,7 +1305,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0163",
+            "resource": "hats0163.png",
             "name": "Book Of Sus hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1313,7 +1313,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0164",
+            "resource": "hats0164.png",
             "name": "Caramilk hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1321,7 +1321,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0165",
+            "resource": "hats0165.png",
             "name": "DJSmiles hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1329,7 +1329,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0166",
+            "resource": "hats0166.png",
             "name": "DrunkyPoo hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1337,7 +1337,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0167",
+            "resource": "hats0167.png",
             "name": "HoliGhost hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1345,7 +1345,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0168",
+            "resource": "hats0168.png",
             "name": "ImpTongue hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1353,7 +1353,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0169",
+            "resource": "hats0169.png",
             "name": "Jessie hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1361,7 +1361,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0170",
+            "resource": "hats0170.png",
             "name": "L hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1369,7 +1369,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0171",
+            "resource": "hats0171.png",
             "name": "Paws hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1377,7 +1377,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0172",
+            "resource": "hats0172.png",
             "name": "Potterhead hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1385,7 +1385,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0173",
+            "resource": "hats0173.png",
             "name": "Lil Swift hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1393,7 +1393,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0174",
+            "resource": "hats0174.png",
             "name": "Sableye hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1401,7 +1401,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0175",
+            "resource": "hats0175.png",
             "name": "Sheriff hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1409,7 +1409,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0176",
+            "resource": "hats0176.png",
             "name": "Steampunk hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1417,7 +1417,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0177",
+            "resource": "hats0177.png",
             "name": "Steampunk Look hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1425,7 +1425,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0178",
+            "resource": "hats0178.png",
             "name": "Sushub hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1433,7 +1433,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0179",
+            "resource": "hats0179.png",
             "name": "Susotion hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1441,7 +1441,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0180",
+            "resource": "hats0180.png",
             "name": "Bee hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -1449,7 +1449,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0181",
+            "resource": "hats0181.png",
             "name": "T-Rex hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -1457,7 +1457,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0182",
+            "resource": "hats0182.png",
             "name": "Maid hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1465,7 +1465,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0183",
+            "resource": "hats0183.png",
             "name": "Koji hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1473,7 +1473,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0184",
+            "resource": "hats0184.png",
             "name": "Ellum hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1481,7 +1481,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0185",
+            "resource": "hats0185.png",
             "name": "Koji Maid hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1489,7 +1489,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0186",
+            "resource": "hats0186.png",
             "name": "jeremy hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -1497,7 +1497,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0187",
+            "resource": "hats0187.png",
             "name": "kDoolz hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -1505,7 +1505,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0188",
+            "resource": "hats0188.png",
             "name": "tenma hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -1513,7 +1513,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0189",
+            "resource": "hats0189.png",
             "name": "jukebox hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -1521,7 +1521,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0190",
+            "resource": "hats0190.png",
             "name": "PK Fire hat",
             "author": "LayZ",
             "condition": "None",
@@ -1529,7 +1529,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0191",
+            "resource": "hats0191.png",
             "name": "Termy Boi hat",
             "author": "LayZ",
             "condition": "None",
@@ -1537,7 +1537,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0192",
+            "resource": "hats0192.png",
             "name": "Tippy hat",
             "author": "LayZ",
             "condition": "None",
@@ -1545,7 +1545,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0193",
+            "resource": "hats0193.png",
             "name": "Akatsuki hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1553,7 +1553,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0194",
+            "resource": "hats0194.png",
             "name": "Bearded Grizzly hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1561,7 +1561,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0195",
+            "resource": "hats0195.png",
             "name": "Dumbdog hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1569,7 +1569,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0196",
+            "resource": "hats0196.png",
             "name": "Eyeball hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1577,7 +1577,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0197",
+            "resource": "hats0197.png",
             "name": "Friday Night Funkin hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -1585,7 +1585,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0198",
+            "resource": "hats0198.png",
             "name": "Friday Night Funkin hat 2 ",
             "author": "Ophidian",
             "condition": "None",
@@ -1593,7 +1593,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0199",
+            "resource": "hats0199.png",
             "name": "Jerm hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1601,7 +1601,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0200",
+            "resource": "hats0200.png",
             "name": "Milky Joe hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1609,7 +1609,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0201",
+            "resource": "hats0201.png",
             "name": "Monkeh hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -1617,7 +1617,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0202",
+            "resource": "hats0202.png",
             "name": "Pink hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -1625,7 +1625,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0203",
+            "resource": "hats0203.png",
             "name": "Sugarcat hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -1633,7 +1633,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0204",
+            "resource": "hats0204.png",
             "name": "Zombie hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -1641,7 +1641,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0205",
+            "resource": "hats0205.png",
             "name": "Iron Man hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -1649,7 +1649,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0206",
+            "resource": "hats0206.png",
             "name": "Thanos hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -1657,7 +1657,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0207",
+            "resource": "hats0207.png",
             "name": "Side Arms hat",
             "author": "Ghost_ejims",
             "condition": "None",
@@ -1665,7 +1665,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0208",
+            "resource": "hats0208.png",
             "name": "Kara hat 2 ",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -1673,7 +1673,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0209",
+            "resource": "hats0209.png",
             "name": "Bergmeister hat",
             "author": "Bergmeister",
             "condition": "None",
@@ -1681,7 +1681,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0210",
+            "resource": "hats0210.png",
             "name": "Chrome hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1689,7 +1689,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0211",
+            "resource": "hats0211.png",
             "name": "Dabi hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1697,7 +1697,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0212",
+            "resource": "hats0212.png",
             "name": "James hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1705,7 +1705,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0213",
+            "resource": "hats0213.png",
             "name": "Meowth hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1713,7 +1713,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0214",
+            "resource": "hats0214.png",
             "name": "Mudkip hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1721,7 +1721,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0215",
+            "resource": "hats0215.png",
             "name": "Patrick Jenner hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1729,7 +1729,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0216",
+            "resource": "hats0216.png",
             "name": "Ravenclaw hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1737,7 +1737,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0217",
+            "resource": "hats0217.png",
             "name": "Taxi hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1745,7 +1745,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0218",
+            "resource": "hats0218.png",
             "name": "The Witcher hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1753,7 +1753,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0219",
+            "resource": "hats0219.png",
             "name": "Blue Dream hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1761,7 +1761,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0220",
+            "resource": "hats0220.png",
             "name": "BrittanyP95 Treasure hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1769,7 +1769,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0221",
+            "resource": "hats0221.png",
             "name": "Chibiusa hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1777,7 +1777,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0222",
+            "resource": "hats0222.png",
             "name": "Cynda hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1785,7 +1785,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0223",
+            "resource": "hats0223.png",
             "name": "Chicky Tenders hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1793,7 +1793,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0224",
+            "resource": "hats0224.png",
             "name": "Chicky Tenders Sauce hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1801,7 +1801,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0225",
+            "resource": "hats0225.png",
             "name": "Demogorgan hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1809,7 +1809,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0226",
+            "resource": "hats0226.png",
             "name": "Detective hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1817,7 +1817,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0227",
+            "resource": "hats0227.png",
             "name": "Fairy hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1825,7 +1825,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0228",
+            "resource": "hats0228.png",
             "name": "FengPJ hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1833,7 +1833,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0229",
+            "resource": "hats0229.png",
             "name": "Freckled Phenom hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1841,7 +1841,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0230",
+            "resource": "hats0230.png",
             "name": "Golden Boi hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1849,7 +1849,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0231",
+            "resource": "hats0231.png",
             "name": "Hold My Beer hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1857,7 +1857,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0232",
+            "resource": "hats0232.png",
             "name": "Huntress hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1865,7 +1865,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0233",
+            "resource": "hats0233.png",
             "name": "Kate hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1873,7 +1873,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0234",
+            "resource": "hats0234.png",
             "name": "Lil Too Much hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1881,7 +1881,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0235",
+            "resource": "hats0235.png",
             "name": "Liv Chipz Periodt hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1889,7 +1889,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0236",
+            "resource": "hats0236.png",
             "name": "Mac Vibes hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1897,7 +1897,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0237",
+            "resource": "hats0237.png",
             "name": "McRib hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1905,7 +1905,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0238",
+            "resource": "hats0238.png",
             "name": "Nurse hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1913,7 +1913,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0239",
+            "resource": "hats0239.png",
             "name": "Periodt hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1921,7 +1921,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0240",
+            "resource": "hats0240.png",
             "name": "Petty Perkins hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1929,7 +1929,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0241",
+            "resource": "hats0241.png",
             "name": "Pilborg It Me hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1937,7 +1937,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0242",
+            "resource": "hats0242.png",
             "name": "Sailor Steve hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1945,7 +1945,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0243",
+            "resource": "hats0243.png",
             "name": "Sweetroll hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1953,7 +1953,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0244",
+            "resource": "hats0244.png",
             "name": "Taste The Rainbow hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1961,7 +1961,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0245",
+            "resource": "hats0245.png",
             "name": "Tux hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1969,7 +1969,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0246",
+            "resource": "hats0246.png",
             "name": "Undead Marah hat",
             "author": "Sweetrolled",
             "condition": "None",
@@ -1977,7 +1977,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0247",
+            "resource": "hats0247.png",
             "name": "Kn0vis hat",
             "author": "SugaNope",
             "condition": "None",
@@ -1985,7 +1985,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0248",
+            "resource": "hats0248.png",
             "name": "Anya hat",
             "author": "Ophidian",
             "condition": "None",
@@ -1993,7 +1993,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0249",
+            "resource": "hats0249.png",
             "name": "Pizza hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2001,7 +2001,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0250",
+            "resource": "hats0250.png",
             "name": "Gaara hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2009,7 +2009,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0251",
+            "resource": "hats0251.png",
             "name": "Hinata hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2017,7 +2017,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0252",
+            "resource": "hats0252.png",
             "name": "MartiMoo hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2025,7 +2025,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0253",
+            "resource": "hats0253.png",
             "name": "Roman hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2033,7 +2033,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0254",
+            "resource": "hats0254.png",
             "name": "Purple Shark hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2041,7 +2041,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0255",
+            "resource": "hats0255.png",
             "name": "Umbreon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2049,7 +2049,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0256",
+            "resource": "hats0256.png",
             "name": "Virgil hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2057,7 +2057,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0257",
+            "resource": "hats0257.png",
             "name": "Side Arms hat 2 ",
             "author": "Ghost_ejims",
             "condition": "None",
@@ -2065,7 +2065,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0258",
+            "resource": "hats0258.png",
             "name": "Rawbuhbuh hat",
             "author": "NightRaiderTea",
             "condition": "None",
@@ -2073,7 +2073,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0259",
+            "resource": "hats0259.png",
             "name": "HeyMcGurk hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2081,7 +2081,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0260",
+            "resource": "hats0260.png",
             "name": "Tuskspicious hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2089,7 +2089,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0261",
+            "resource": "hats0261.png",
             "name": "Bunnies hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -2097,7 +2097,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0262",
+            "resource": "hats0262.png",
             "name": "Mushroom hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -2105,7 +2105,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0263",
+            "resource": "hats0263.png",
             "name": "Red Panda hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -2113,7 +2113,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0264",
+            "resource": "hats0264.png",
             "name": "Wizard hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -2121,7 +2121,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0265",
+            "resource": "hats0265.png",
             "name": "Courtilly hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -2129,7 +2129,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0266",
+            "resource": "hats0266.png",
             "name": "Mods hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2137,7 +2137,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0267",
+            "resource": "hats0267.png",
             "name": "NoiBat hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2145,7 +2145,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0268",
+            "resource": "hats0268.png",
             "name": "Shmuelzys Piss Bucket hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2153,7 +2153,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0269",
+            "resource": "hats0269.png",
             "name": "Zavvygamer hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2161,7 +2161,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0270",
+            "resource": "hats0270.png",
             "name": "Bill Cipher hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2169,7 +2169,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0271",
+            "resource": "hats0271.png",
             "name": "Blossom hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2177,7 +2177,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0272",
+            "resource": "hats0272.png",
             "name": "Bubbles hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2185,7 +2185,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0273",
+            "resource": "hats0273.png",
             "name": "Buttercup hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2193,7 +2193,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0274",
+            "resource": "hats0274.png",
             "name": "Dell hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2201,7 +2201,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0275",
+            "resource": "hats0275.png",
             "name": "Gengar hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2209,7 +2209,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0276",
+            "resource": "hats0276.png",
             "name": "Grumpy Cat hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2217,7 +2217,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0277",
+            "resource": "hats0277.png",
             "name": "Ksmac3 hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2225,7 +2225,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0278",
+            "resource": "hats0278.png",
             "name": "Pennywise hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2233,7 +2233,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0279",
+            "resource": "hats0279.png",
             "name": "Redneck hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2241,7 +2241,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0280",
+            "resource": "hats0280.png",
             "name": "Red Body hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2249,7 +2249,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0281",
+            "resource": "hats0281.png",
             "name": "Pink Body hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2257,7 +2257,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0282",
+            "resource": "hats0282.png",
             "name": "Yellow Body hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2265,7 +2265,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0283",
+            "resource": "hats0283.png",
             "name": "Nogla hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -2273,7 +2273,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0284",
+            "resource": "hats0284.png",
             "name": "Wildcat hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -2281,7 +2281,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0285",
+            "resource": "hats0285.png",
             "name": "Olive Kruzadar hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -2289,7 +2289,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0286",
+            "resource": "hats0286.png",
             "name": "Red Kruzadar hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -2297,7 +2297,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0287",
+            "resource": "hats0287.png",
             "name": "Koala hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2305,7 +2305,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0288",
+            "resource": "hats0288.png",
             "name": "Raptor hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2313,7 +2313,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0289",
+            "resource": "hats0289.png",
             "name": "Kangaroo hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2321,7 +2321,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0290",
+            "resource": "hats0290.png",
             "name": "HeckMuffins hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2329,7 +2329,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0291",
+            "resource": "hats0291.png",
             "name": "HecksAmphy hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2337,7 +2337,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0292",
+            "resource": "hats0292.png",
             "name": "Ophidian hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2345,7 +2345,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0293",
+            "resource": "hats0293.png",
             "name": "Rikiisnotaferet hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2353,7 +2353,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0294",
+            "resource": "hats0294.png",
             "name": "SpiceRat hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2361,7 +2361,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0295",
+            "resource": "hats0295.png",
             "name": "Spicesjolt hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2369,7 +2369,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0296",
+            "resource": "hats0296.png",
             "name": "RicKafe hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2377,7 +2377,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0297",
+            "resource": "hats0297.png",
             "name": "Caracupcake hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2385,7 +2385,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0298",
+            "resource": "hats0298.png",
             "name": "Cosmicara hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2393,7 +2393,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0299",
+            "resource": "hats0299.png",
             "name": "Crabcake hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2401,7 +2401,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0300",
+            "resource": "hats0300.png",
             "name": "McMayhem hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2409,7 +2409,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0301",
+            "resource": "hats0301.png",
             "name": "MissJersey hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2417,7 +2417,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0302",
+            "resource": "hats0302.png",
             "name": "Quonk Gun hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2425,7 +2425,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0303",
+            "resource": "hats0303.png",
             "name": "SlackATK hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -2433,7 +2433,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0304",
+            "resource": "hats0304.png",
             "name": "AstasApple hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2441,7 +2441,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0305",
+            "resource": "hats0305.png",
             "name": "CaptainStoppy hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2449,7 +2449,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0306",
+            "resource": "hats0306.png",
             "name": "Casper hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2457,7 +2457,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0307",
+            "resource": "hats0307.png",
             "name": "DawnsHotMama hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2465,7 +2465,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0308",
+            "resource": "hats0308.png",
             "name": "DSCGluttony hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2473,7 +2473,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0309",
+            "resource": "hats0309.png",
             "name": "FairysBlueFox hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2481,7 +2481,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0310",
+            "resource": "hats0310.png",
             "name": "Japanda hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2489,7 +2489,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0311",
+            "resource": "hats0311.png",
             "name": "Lanaboo hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2497,7 +2497,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0312",
+            "resource": "hats0312.png",
             "name": "Panda Pride hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2505,7 +2505,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0313",
+            "resource": "hats0313.png",
             "name": "Shiny Psyduck hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2513,7 +2513,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0314",
+            "resource": "hats0314.png",
             "name": "Snorlax hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2521,7 +2521,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0315",
+            "resource": "hats0315.png",
             "name": "Tessany Beauty hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2529,7 +2529,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0316",
+            "resource": "hats0316.png",
             "name": "Xallysahoney hat",
             "author": "Ophidian",
             "condition": "None",
@@ -2537,7 +2537,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0317",
+            "resource": "hats0317.png",
             "name": "Shmuelzy hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2545,7 +2545,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0318",
+            "resource": "hats0318.png",
             "name": "Inmouth hat ",
             "author": "Rum",
             "condition": "None",
@@ -2553,7 +2553,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0319",
+            "resource": "hats0319.png",
             "name": "Teeth hat ",
             "author": "Rum",
             "condition": "None",
@@ -2561,7 +2561,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0320",
+            "resource": "hats0320.png",
             "name": "Thing hat ",
             "author": "Rum",
             "condition": "None",
@@ -2569,7 +2569,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0321",
+            "resource": "hats0321.png",
             "name": "Tongue hat ",
             "author": "Rum",
             "condition": "None",
@@ -2577,7 +2577,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0322",
+            "resource": "hats0322.png",
             "name": "Xeno hat ",
             "author": "Rum",
             "condition": "None",
@@ -2585,7 +2585,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0323",
+            "resource": "hats0323.png",
             "name": "Side Arms hat 2 alt ",
             "author": "Ghost_ejims",
             "condition": "None",
@@ -2593,7 +2593,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0324",
+            "resource": "hats0324.png",
             "name": "Basedkm hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2601,7 +2601,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0325",
+            "resource": "hats0325.png",
             "name": "CaspersGrovyle hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2609,7 +2609,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0326",
+            "resource": "hats0326.png",
             "name": "CowboyMav hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2617,7 +2617,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0327",
+            "resource": "hats0327.png",
             "name": "DigDuck hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2625,7 +2625,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0328",
+            "resource": "hats0328.png",
             "name": "DougDimadome hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2633,7 +2633,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0329",
+            "resource": "hats0329.png",
             "name": "JapandasSkitty hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2641,7 +2641,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0330",
+            "resource": "hats0330.png",
             "name": "Magikarp hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2649,7 +2649,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0331",
+            "resource": "hats0331.png",
             "name": "Nidoking hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2657,7 +2657,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0332",
+            "resource": "hats0332.png",
             "name": "QuirtysPolywhirl hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2665,7 +2665,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0333",
+            "resource": "hats0333.png",
             "name": "Salamence hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2673,7 +2673,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0334",
+            "resource": "hats0334.png",
             "name": "WolvsMimikyu hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2681,7 +2681,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0335",
+            "resource": "hats0335.png",
             "name": "CoriKasarak hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2689,7 +2689,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0336",
+            "resource": "hats0336.png",
             "name": "Jigglypuff hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2697,7 +2697,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0337",
+            "resource": "hats0337.png",
             "name": "KojiSkunk hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2705,7 +2705,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0338",
+            "resource": "hats0338.png",
             "name": "Wailord hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2713,7 +2713,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0339",
+            "resource": "hats0339.png",
             "name": "Boar hat ",
             "author": "Pigoletto",
             "condition": "None",
@@ -2721,7 +2721,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0340",
+            "resource": "hats0340.png",
             "name": "Creepy Doll hat ",
             "author": "Pigoletto",
             "condition": "None",
@@ -2729,7 +2729,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0341",
+            "resource": "hats0341.png",
             "name": "Raven hat ",
             "author": "Pigoletto",
             "condition": "None",
@@ -2737,7 +2737,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0342",
+            "resource": "hats0342.png",
             "name": "Trenchcoat hat ",
             "author": "Pigoletto",
             "condition": "None",
@@ -2745,7 +2745,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0343",
+            "resource": "hats0343.png",
             "name": "Blaziken hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2753,7 +2753,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0344",
+            "resource": "hats0344.png",
             "name": "Carriemello hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2761,7 +2761,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0345",
+            "resource": "hats0345.png",
             "name": "Paradox Monkey hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2769,7 +2769,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0346",
+            "resource": "hats0346.png",
             "name": "GooseTroop hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2777,7 +2777,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0347",
+            "resource": "hats0347.png",
             "name": "Jerry hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2785,7 +2785,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0348",
+            "resource": "hats0348.png",
             "name": "Loweye hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2793,7 +2793,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0349",
+            "resource": "hats0349.png",
             "name": "Lucas hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2801,7 +2801,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0350",
+            "resource": "hats0350.png",
             "name": "NewHeckMuffins hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2809,7 +2809,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0351",
+            "resource": "hats0351.png",
             "name": "OogieBoogie hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2817,7 +2817,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0352",
+            "resource": "hats0352.png",
             "name": "RikisFerret hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2825,7 +2825,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0353",
+            "resource": "hats0353.png",
             "name": "Tinkerbell hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2833,7 +2833,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0354",
+            "resource": "hats0354.png",
             "name": "Troubella hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2841,7 +2841,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0355",
+            "resource": "hats0355.png",
             "name": "Valak hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2849,7 +2849,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0356",
+            "resource": "hats0356.png",
             "name": "Bait hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2857,7 +2857,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0357",
+            "resource": "hats0357.png",
             "name": "Chickenz hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2865,7 +2865,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0359",
+            "resource": "hats0359.png",
             "name": "HecksBunBun hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2873,7 +2873,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0360",
+            "resource": "hats0360.png",
             "name": "MxJosie hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2881,7 +2881,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0362",
+            "resource": "hats0362.png",
             "name": "Gfro hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2889,7 +2889,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0363",
+            "resource": "hats0363.png",
             "name": "GfrosLopunny hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2897,7 +2897,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0364",
+            "resource": "hats0364.png",
             "name": "MarylinMonroe hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2905,7 +2905,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0365",
+            "resource": "hats0365.png",
             "name": "SailorMoon hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2913,7 +2913,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0366",
+            "resource": "hats0366.png",
             "name": "SusCrown hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2921,7 +2921,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0367",
+            "resource": "hats0367.png",
             "name": "Chocoberry hat ",
             "author": "Rum",
             "condition": "None",
@@ -2929,7 +2929,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0368",
+            "resource": "hats0368.png",
             "name": "ChocoPun hat ",
             "author": "Rum",
             "condition": "None",
@@ -2937,7 +2937,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0369",
+            "resource": "hats0369.png",
             "name": "Gomez hat ",
             "author": "Rum",
             "condition": "None",
@@ -2945,7 +2945,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0370",
+            "resource": "hats0370.png",
             "name": "Wednesday hat ",
             "author": "Rum",
             "condition": "None",
@@ -2953,7 +2953,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0371",
+            "resource": "hats0371.png",
             "name": "Michael Myers hat ",
             "author": "Rum",
             "condition": "None",
@@ -2961,7 +2961,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0372",
+            "resource": "hats0372.png",
             "name": "Strawberry hat ",
             "author": "Rum",
             "condition": "None",
@@ -2969,7 +2969,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0373",
+            "resource": "hats0373.png",
             "name": "Yey Billy hat ",
             "author": "Rum",
             "condition": "None",
@@ -2977,7 +2977,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0374",
+            "resource": "hats0374.png",
             "name": "Breakfast Boba hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -2985,7 +2985,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0375",
+            "resource": "hats0375.png",
             "name": "Little Death hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -2993,7 +2993,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0376",
+            "resource": "hats0376.png",
             "name": "Little Jester hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3001,7 +3001,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0377",
+            "resource": "hats0377.png",
             "name": "Little Mage hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3009,7 +3009,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0378",
+            "resource": "hats0378.png",
             "name": "Little Pirate hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3017,7 +3017,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0379",
+            "resource": "hats0379.png",
             "name": "G7erard hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3025,7 +3025,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0380",
+            "resource": "hats0380.png",
             "name": "COTC hat ",
             "author": "Rum",
             "condition": "None",
@@ -3033,7 +3033,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0381",
+            "resource": "hats0381.png",
             "name": "Facehugger hat ",
             "author": "Rum",
             "condition": "None",
@@ -3041,7 +3041,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0382",
+            "resource": "hats0382.png",
             "name": "Maks hat ",
             "author": "Rum",
             "condition": "None",
@@ -3049,7 +3049,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0383",
+            "resource": "hats0383.png",
             "name": "Xenomorph Queen hat ",
             "author": "Rum",
             "condition": "None",
@@ -3057,7 +3057,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0384",
+            "resource": "hats0384.png",
             "name": "Cruella hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3065,7 +3065,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0385",
+            "resource": "hats0385.png",
             "name": "Moth hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3073,7 +3073,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0386",
+            "resource": "hats0386.png",
             "name": "Necro hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3081,7 +3081,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0387",
+            "resource": "hats0387.png",
             "name": "Shaman hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3089,7 +3089,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0388",
+            "resource": "hats0388.png",
             "name": "Assassin hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3097,7 +3097,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0389",
+            "resource": "hats0389.png",
             "name": "Death hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3105,7 +3105,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0390",
+            "resource": "hats0390.png",
             "name": "bgcbigs hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3113,7 +3113,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0391",
+            "resource": "hats0391.png",
             "name": "Jshooa hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3121,7 +3121,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0392",
+            "resource": "hats0392.png",
             "name": "Lechonk hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3129,7 +3129,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0393",
+            "resource": "hats0393.png",
             "name": "PossibleBear hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3137,7 +3137,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0394",
+            "resource": "hats0394.png",
             "name": "Little Angel hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3145,7 +3145,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0395",
+            "resource": "hats0395.png",
             "name": "Little Demon hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3153,7 +3153,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0396",
+            "resource": "hats0396.png",
             "name": "Little Red Riding Hood hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3161,7 +3161,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0397",
+            "resource": "hats0397.png",
             "name": "Little Sheriff hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3169,7 +3169,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0398",
+            "resource": "hats0398.png",
             "name": "Little Chef hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3177,7 +3177,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0399",
+            "resource": "hats0399.png",
             "name": "Little Evil Queen hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3185,7 +3185,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0400",
+            "resource": "hats0400.png",
             "name": "SpicesPawmont hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3193,7 +3193,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0401",
+            "resource": "hats0401.png",
             "name": "Little Gnome hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3201,7 +3201,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0402",
+            "resource": "hats0402.png",
             "name": "Little Krampus hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3209,7 +3209,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0403",
+            "resource": "hats0403.png",
             "name": "Little Santa hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3217,7 +3217,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0404",
+            "resource": "hats0404.png",
             "name": "CandyCane hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3225,7 +3225,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0405",
+            "resource": "hats0405.png",
             "name": "GingerbreadMan hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3233,7 +3233,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0406",
+            "resource": "hats0406.png",
             "name": "Present hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3241,7 +3241,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0407",
+            "resource": "hats0407.png",
             "name": "Reindeer hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3249,7 +3249,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0408",
+            "resource": "hats0408.png",
             "name": "Santa hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3257,7 +3257,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0409",
+            "resource": "hats0409.png",
             "name": "Snowman hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3265,7 +3265,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0410",
+            "resource": "hats0410.png",
             "name": "GingerbreadHouse hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3273,7 +3273,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0411",
+            "resource": "hats0411.png",
             "name": "NohsAraquanio hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3281,7 +3281,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0412",
+            "resource": "hats0412.png",
             "name": "Bodybuilder hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3289,7 +3289,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0413",
+            "resource": "hats0413.png",
             "name": "Bosa hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3297,7 +3297,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0414",
+            "resource": "hats0414.png",
             "name": "Cluckers hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3305,7 +3305,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0415",
+            "resource": "hats0415.png",
             "name": "Manatee hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3313,7 +3313,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0416",
+            "resource": "hats0416.png",
             "name": "MikeDotTV hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3321,7 +3321,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0417",
+            "resource": "hats0417.png",
             "name": "Mr T hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3329,7 +3329,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0418",
+            "resource": "hats0418.png",
             "name": "Salmon hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3337,7 +3337,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0419",
+            "resource": "hats0419.png",
             "name": "Tatsugiri hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3345,7 +3345,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0420",
+            "resource": "hats0420.png",
             "name": "Wonton hat ",
             "author": "Sarinjin",
             "condition": "None",
@@ -3353,7 +3353,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0421",
+            "resource": "hats0421.png",
             "name": "Heckinmoo hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3361,7 +3361,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0422",
+            "resource": "hats0422.png",
             "name": "JarrelBun hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3369,7 +3369,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0423",
+            "resource": "hats0423.png",
             "name": "Jessica hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3377,7 +3377,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0424",
+            "resource": "hats0424.png",
             "name": "MartiMoo hat 2 ",
             "author": "Ophidian",
             "condition": "None",
@@ -3385,7 +3385,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0425",
+            "resource": "hats0425.png",
             "name": "Oilers hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3393,7 +3393,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0426",
+            "resource": "hats0426.png",
             "name": "TechnicalMoon hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3401,7 +3401,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0427",
+            "resource": "hats0427.png",
             "name": "Giddawid hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -3409,7 +3409,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0428",
+            "resource": "hats0428.png",
             "name": "Kurtgi hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3417,7 +3417,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0429",
+            "resource": "hats0429.png",
             "name": "ThisIsFine hat ",
             "author": "Ophidian",
             "condition": "None",
@@ -3425,7 +3425,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0430",
+            "resource": "hats0430.png",
             "name": "Platy Mayo hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3433,7 +3433,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0431",
+            "resource": "hats0431.png",
             "name": "Princess Zeach hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3441,7 +3441,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0432",
+            "resource": "hats0432.png",
             "name": "Firemage hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3449,7 +3449,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0433",
+            "resource": "hats0433.png",
             "name": "Peter Griffin hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3457,7 +3457,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0434",
+            "resource": "hats0434.png",
             "name": "Hovpool hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3465,7 +3465,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0435",
+            "resource": "hats0435.png",
             "name": "Spiderhov hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3473,7 +3473,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0436",
+            "resource": "hats0436.png",
             "name": "Espeon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3481,7 +3481,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0437",
+            "resource": "hats0437.png",
             "name": "Evee hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3489,7 +3489,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0438",
+            "resource": "hats0438.png",
             "name": "Flareon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3497,7 +3497,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0439",
+            "resource": "hats0439.png",
             "name": "Glaceon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3505,7 +3505,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0440",
+            "resource": "hats0440.png",
             "name": "Leafeon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3513,7 +3513,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0441",
+            "resource": "hats0441.png",
             "name": "Sylveon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3521,7 +3521,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0442",
+            "resource": "hats0442.png",
             "name": "Umbreon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3529,7 +3529,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0443",
+            "resource": "hats0443.png",
             "name": "Vaporeon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3537,7 +3537,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0444",
+            "resource": "hats0444.png",
             "name": "Jolteon hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3545,7 +3545,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0445",
+            "resource": "hats0445.png",
             "name": "CB hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3553,7 +3553,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0446",
+            "resource": "hats0446.png",
             "name": "Dangorpa hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3561,7 +3561,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0447",
+            "resource": "hats0447.png",
             "name": "Galaxybrain hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3569,7 +3569,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0448",
+            "resource": "hats0448.png",
             "name": "IchigoHollow hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3577,7 +3577,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0449",
+            "resource": "hats0449.png",
             "name": "Tessany Beauty Warrior hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3585,7 +3585,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0450",
+            "resource": "hats0450.png",
             "name": "Pikabubs hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3593,7 +3593,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0451",
+            "resource": "hats0451.png",
             "name": "Slayed hat",
             "author": "Sarinjin",
             "condition": "None",
@@ -3601,7 +3601,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0452",
+            "resource": "hats0452.png",
             "name": "BlackCat hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3609,7 +3609,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0453",
+            "resource": "hats0453.png",
             "name": "GingerCat hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3617,7 +3617,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0454",
+            "resource": "hats0454.png",
             "name": "Crab hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3625,7 +3625,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0455",
+            "resource": "hats0455.png",
             "name": "GooglyEyes hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3633,7 +3633,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0456",
+            "resource": "hats0456.png",
             "name": "Qthulhu hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3641,7 +3641,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0457",
+            "resource": "hats0457.png",
             "name": "Tiki hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3649,7 +3649,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0458",
+            "resource": "hats0458.png",
             "name": "jb hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3657,7 +3657,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0459",
+            "resource": "hats0459.png",
             "name": "WingsBodyBuilder hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3665,7 +3665,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0460",
+            "resource": "hats0460.png",
             "name": "5up hat",
             "author": "Rum",
             "condition": "None",
@@ -3673,7 +3673,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0461",
+            "resource": "hats0461.png",
             "name": "Angel Is Kimi hat",
             "author": "Rum",
             "condition": "None",
@@ -3681,7 +3681,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0462",
+            "resource": "hats0462.png",
             "name": "DK hat",
             "author": "Rum",
             "condition": "None",
@@ -3689,7 +3689,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0463",
+            "resource": "hats0463.png",
             "name": "Dumbdog hat",
             "author": "Rum",
             "condition": "None",
@@ -3697,7 +3697,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0464",
+            "resource": "hats0464.png",
             "name": "Ellum hat",
             "author": "Rum",
             "condition": "None",
@@ -3705,7 +3705,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0465",
+            "resource": "hats0465.png",
             "name": "Hafu Penguin hat",
             "author": "Rum",
             "condition": "None",
@@ -3713,7 +3713,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0466",
+            "resource": "hats0466.png",
             "name": "Koji hat",
             "author": "Rum",
             "condition": "None",
@@ -3721,7 +3721,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0467",
+            "resource": "hats0467.png",
             "name": "Smajor hat",
             "author": "Rum",
             "condition": "None",
@@ -3729,7 +3729,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0468",
+            "resource": "hats0468.png",
             "name": "Steve hat",
             "author": "Rum",
             "condition": "None",
@@ -3737,7 +3737,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0469",
+            "resource": "hats0469.png",
             "name": "vGumiho hat",
             "author": "Rum",
             "condition": "None",
@@ -3745,7 +3745,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0470",
+            "resource": "hats0470.png",
             "name": "xChocobars hat",
             "author": "Rum",
             "condition": "None",
@@ -3753,7 +3753,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0471",
+            "resource": "hats0471.png",
             "name": "AfroBush hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3761,7 +3761,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0472",
+            "resource": "hats0472.png",
             "name": "Chai hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3769,7 +3769,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0473",
+            "resource": "hats0473.png",
             "name": "MrBeast hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3777,7 +3777,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0474",
+            "resource": "hats0474.png",
             "name": "NeonBuns hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3785,7 +3785,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0475",
+            "resource": "hats0475.png",
             "name": "Snow Leopard hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3793,7 +3793,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0476",
+            "resource": "hats0476.png",
             "name": "Unicorn Hairband hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3801,7 +3801,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0477",
+            "resource": "hats0477.png",
             "name": "Wheelchair hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3809,7 +3809,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0478",
+            "resource": "hats0478.png",
             "name": "Gligar hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3817,7 +3817,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0479",
+            "resource": "hats0479.png",
             "name": "Manbag hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3825,7 +3825,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0480",
+            "resource": "hats0480.png",
             "name": "MinecraftSteve hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3833,7 +3833,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0481",
+            "resource": "hats0481.png",
             "name": "Ninmuffin hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3841,7 +3841,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0482",
+            "resource": "hats0482.png",
             "name": "Ribbonman hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3849,7 +3849,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0483",
+            "resource": "hats0483.png",
             "name": "Sora hat",
             "author": "Ophidian",
             "condition": "None",
@@ -3857,7 +3857,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0484",
+            "resource": "hats0484.png",
             "name": "CabociTV hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3865,7 +3865,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0485",
+            "resource": "hats0485.png",
             "name": "Cat hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3873,7 +3873,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0486",
+            "resource": "hats0486.png",
             "name": "Cream Unicorn hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3881,7 +3881,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0487",
+            "resource": "hats0487.png",
             "name": "Zod hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3889,7 +3889,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0488",
+            "resource": "hats0488.png",
             "name": "Poseidon's Crown hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3897,7 +3897,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0489",
+            "resource": "hats0489.png",
             "name": "The True King hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3905,7 +3905,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0490",
+            "resource": "hats0490.png",
             "name": "Titans hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3913,7 +3913,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0491",
+            "resource": "hats0491.png",
             "name": "Wreath hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3921,7 +3921,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0492",
+            "resource": "hats0492.png",
             "name": "Golden Wreath hat",
             "author": "SugaNope",
             "condition": "None",
@@ -3929,7 +3929,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0493",
+            "resource": "hats0493.png",
             "name": "Little Antoinette hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3937,7 +3937,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0494",
+            "resource": "hats0494.png",
             "name": "Little Golem hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3945,7 +3945,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0495",
+            "resource": "hats0495.png",
             "name": "Little Jason hat",
             "author": "Pigoletto",
             "condition": "None",
@@ -3953,7 +3953,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0000",
+            "resource": "misc0000.png",
             "name": "ZeroXFusionz hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -3961,7 +3961,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0002",
+            "resource": "misc0002.png",
             "name": "wrench_f hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -3969,7 +3969,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0003",
+            "resource": "misc0003.png",
             "name": "vince_foot_front hat",
             "author": "Ressnie",
             "condition": "None",
@@ -3977,7 +3977,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0004",
+            "resource": "misc0004.png",
             "name": "vince_front hat",
             "author": "Ressnie",
             "condition": "None",
@@ -3985,7 +3985,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0007",
+            "resource": "misc0007.png",
             "name": "stitch hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -3993,7 +3993,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0008",
+            "resource": "misc0008.png",
             "name": "shrek hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4001,7 +4001,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0009",
+            "resource": "misc0009.png",
             "name": "revmeerkat_front hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4009,7 +4009,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0010",
+            "resource": "misc0010.png",
             "name": "reenyy hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4017,7 +4017,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0011",
+            "resource": "misc0011.png",
             "name": "rayc hat",
             "author": "tori#1277",
             "condition": "None",
@@ -4025,7 +4025,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0015",
+            "resource": "misc0015.png",
             "name": "Paule_front hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4033,7 +4033,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0020",
+            "resource": "misc0020.png",
             "name": "groot hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4041,7 +4041,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0021",
+            "resource": "misc0021.png",
             "name": "gorillaphent_f hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4049,7 +4049,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "misc0022",
+            "resource": "misc0022.png",
             "name": "gh00stie_f hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4057,7 +4057,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0000",
+            "resource": "myhats0000.png",
             "name": "pot hat",
             "author": "acron",
             "condition": "None",
@@ -4065,7 +4065,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0001",
+            "resource": "myhats0001.png",
             "name": "box hat",
             "author": "acron",
             "condition": "None",
@@ -4073,7 +4073,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0002",
+            "resource": "myhats0002.png",
             "name": "eye hat",
             "author": "acron",
             "condition": "None",
@@ -4081,7 +4081,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0003",
+            "resource": "myhats0003.png",
             "name": "fundy hat",
             "author": "acron",
             "condition": "None",
@@ -4089,7 +4089,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0004",
+            "resource": "myhats0004.png",
             "name": "sykkuno hat",
             "author": "acron",
             "condition": "None",
@@ -4097,7 +4097,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0005",
+            "resource": "myhats0005.png",
             "name": "5up hat",
             "author": "acron",
             "condition": "None",
@@ -4105,7 +4105,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0006",
+            "resource": "myhats0006.png",
             "name": "crumb hat",
             "author": "acron",
             "condition": "None",
@@ -4113,7 +4113,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0007",
+            "resource": "myhats0007.png",
             "name": "sussy hat",
             "author": "acron",
             "condition": "None",
@@ -4121,7 +4121,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0008",
+            "resource": "myhats0008.png",
             "name": "penguin hat",
             "author": "acron",
             "condition": "None",
@@ -4129,7 +4129,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0009",
+            "resource": "myhats0009.png",
             "name": "dolphin hat",
             "author": "acron",
             "condition": "None",
@@ -4137,7 +4137,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0010",
+            "resource": "myhats0010.png",
             "name": "skull hat",
             "author": "acron",
             "condition": "None",
@@ -4145,7 +4145,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0011",
+            "resource": "myhats0011.png",
             "name": "croissant hat",
             "author": "acron",
             "condition": "None",
@@ -4153,7 +4153,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0012",
+            "resource": "myhats0012.png",
             "name": "platypus hat",
             "author": "acron",
             "condition": "None",
@@ -4161,7 +4161,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0013",
+            "resource": "myhats0013.png",
             "name": "vines hat",
             "author": "acron",
             "condition": "None",
@@ -4169,7 +4169,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0014",
+            "resource": "myhats0014.png",
             "name": "5up scarf hat",
             "author": "acron",
             "condition": "None",
@@ -4177,7 +4177,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0015",
+            "resource": "myhats0015.png",
             "name": "baby hat",
             "author": "acron",
             "condition": "None",
@@ -4185,7 +4185,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "myhats0016",
+            "resource": "myhats0016.png",
             "name": "raflp hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4193,7 +4193,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0000",
+            "resource": "standard0000.png",
             "name": "wendy hat",
             "author": "Unknown",
             "condition": "None",
@@ -4201,7 +4201,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0001",
+            "resource": "standard0001.png",
             "name": "waffle hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4209,7 +4209,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0002",
+            "resource": "standard0002.png",
             "name": "Voteme hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4217,7 +4217,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0003",
+            "resource": "standard0003.png",
             "name": "squirrel hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4225,7 +4225,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0004",
+            "resource": "standard0004.png",
             "name": "shiki hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4233,7 +4233,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0005",
+            "resource": "standard0005.png",
             "name": "rollups hat",
             "author": "Unknown",
             "condition": "None",
@@ -4241,7 +4241,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0006",
+            "resource": "standard0006.png",
             "name": "rocky hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4249,7 +4249,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0007",
+            "resource": "standard0007.png",
             "name": "pepe hat",
             "author": "Unknown",
             "condition": "None",
@@ -4257,7 +4257,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0008",
+            "resource": "standard0008.png",
             "name": "penguinface_front hat",
             "author": "Unknown",
             "condition": "None",
@@ -4265,7 +4265,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0009",
+            "resource": "standard0009.png",
             "name": "pancakes hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4273,7 +4273,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0010",
+            "resource": "standard0010.png",
             "name": "masayoshi hat",
             "author": "Unknown",
             "condition": "None",
@@ -4281,7 +4281,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0011",
+            "resource": "standard0011.png",
             "name": "leah hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4289,7 +4289,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0012",
+            "resource": "standard0012.png",
             "name": "kris hat",
             "author": "tori#1277",
             "condition": "None",
@@ -4297,7 +4297,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0013",
+            "resource": "standard0013.png",
             "name": "jodi hat",
             "author": "Unknown",
             "condition": "None",
@@ -4305,7 +4305,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0014",
+            "resource": "standard0014.png",
             "name": "jerm hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4313,7 +4313,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0015",
+            "resource": "standard0015.png",
             "name": "janet hat",
             "author": "tori#1277",
             "condition": "None",
@@ -4321,7 +4321,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0016",
+            "resource": "standard0016.png",
             "name": " hat",
             "author": "Unknown",
             "condition": "None",
@@ -4329,7 +4329,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0017",
+            "resource": "standard0017.png",
             "name": "hafu hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4337,7 +4337,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0018",
+            "resource": "standard0018.png",
             "name": "giacomo hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4345,7 +4345,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0019",
+            "resource": "standard0019.png",
             "name": "Frog hat redesign",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4353,7 +4353,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0020",
+            "resource": "standard0020.png",
             "name": "frenchtoast hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4361,7 +4361,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0021",
+            "resource": "standard0021.png",
             "name": "fire hat",
             "author": "Unknown",
             "condition": "None",
@@ -4369,7 +4369,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0022",
+            "resource": "standard0022.png",
             "name": "crunchy hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4377,7 +4377,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0023",
+            "resource": "standard0023.png",
             "name": "couve hat",
             "author": "Unknown",
             "condition": "None",
@@ -4385,7 +4385,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0024",
+            "resource": "standard0024.png",
             "name": "charizard hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4393,7 +4393,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0025",
+            "resource": "standard0025.png",
             "name": "buffyhelmet hat",
             "author": "Unknown",
             "condition": "None",
@@ -4401,7 +4401,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0026",
+            "resource": "standard0026.png",
             "name": "buffyarms hat",
             "author": "Unknown",
             "condition": "None",
@@ -4409,7 +4409,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0027",
+            "resource": "standard0027.png",
             "name": "buffy hat",
             "author": "Unknown",
             "condition": "None",
@@ -4417,7 +4417,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0028",
+            "resource": "standard0028.png",
             "name": "brizzyears hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4425,7 +4425,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0029",
+            "resource": "standard0029.png",
             "name": "br00d hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4433,7 +4433,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0030",
+            "resource": "standard0030.png",
             "name": "blaustoise hat",
             "author": "tori#1277",
             "condition": "None",
@@ -4441,7 +4441,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0031",
+            "resource": "standard0031.png",
             "name": "bird hat",
             "author": "Unknown",
             "condition": "None",
@@ -4449,7 +4449,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0032",
+            "resource": "standard0032.png",
             "name": "birb hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4457,7 +4457,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0033",
+            "resource": "standard0033.png",
             "name": "bestcrewmate hat",
             "author": "Unknown",
             "condition": "None",
@@ -4465,7 +4465,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0034",
+            "resource": "standard0034.png",
             "name": "basetrade_3 hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4473,7 +4473,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0035",
+            "resource": "standard0035.png",
             "name": "basetrade_2 hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4481,7 +4481,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0036",
+            "resource": "standard0036.png",
             "name": "basetrade_1 hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4489,7 +4489,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0037",
+            "resource": "standard0037.png",
             "name": "ash hat",
             "author": "Unknown",
             "condition": "None",
@@ -4497,7 +4497,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0038",
+            "resource": "standard0038.png",
             "name": "_hat",
             "author": "TheLastShaymin",
             "condition": "None",
@@ -4505,7 +4505,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0039",
+            "resource": "standard0039.png",
             "name": "Snapper hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4513,7 +4513,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0040",
+            "resource": "standard0040.png",
             "name": "Slippy hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4521,7 +4521,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0041",
+            "resource": "standard0041.png",
             "name": "Frog hat",
             "author": "Ressnie",
             "condition": "None",
@@ -4529,7 +4529,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0042",
+            "resource": "standard0042.png",
             "name": "Jessie Monkey hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4537,7 +4537,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0043",
+            "resource": "standard0043.png",
             "name": "Sunflower hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4545,7 +4545,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0044",
+            "resource": "standard0044.png",
             "name": "Juicebox hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4553,7 +4553,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0045",
+            "resource": "standard0045.png",
             "name": "Crow hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4561,7 +4561,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0046",
+            "resource": "standard0046.png",
             "name": "Ghost hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4569,7 +4569,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0047",
+            "resource": "standard0047.png",
             "name": "Pumpkin hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4577,7 +4577,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0048",
+            "resource": "standard0048.png",
             "name": "Cat Helmet hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4585,7 +4585,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0049",
+            "resource": "standard0049.png",
             "name": "Cat Helmet With Apron hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4593,7 +4593,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0050",
+            "resource": "standard0050.png",
             "name": "Zeta Mark V hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4601,7 +4601,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0051",
+            "resource": "standard0051.png",
             "name": "Billy Butcher hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4609,7 +4609,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0052",
+            "resource": "standard0052.png",
             "name": "Queen Maeve hat",
             "author": "Little Doo Doo",
             "condition": "None",
@@ -4617,7 +4617,7 @@
             "modpack": "TOU"
         },
         {
-            "resource": "standard0053",
+            "resource": "standard0053.png",
             "name": "Starlight hat",
             "author": "Little Doo Doo"
           }*/
