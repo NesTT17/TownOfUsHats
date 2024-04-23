@@ -186,7 +186,7 @@
         },
         {
             "resource": "hats0023.png",
-            "name": "ellum hat",
+            "name": "ellum",
             "author": "TheLastShaymin",
             "condition": "None",
             "package": "Town Of Us Hats",
@@ -1361,14 +1361,6 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0170.png",
-            "name": "L hat",
-            "author": "Ophidian",
-            "condition": "None",
-            "package": "Town Of Us Hats",
-            "modpack": "TOU"
-        },
-        {
             "resource": "hats0171.png",
             "name": "Paws hat",
             "author": "Ophidian",
@@ -1851,14 +1843,6 @@
         {
             "resource": "hats0231.png",
             "name": "Hold My Beer hat",
-            "author": "Sweetrolled",
-            "condition": "None",
-            "package": "Town Of Us Hats",
-            "modpack": "TOU"
-        },
-        {
-            "resource": "hats0232.png",
-            "name": "Huntress hat",
             "author": "Sweetrolled",
             "condition": "None",
             "package": "Town Of Us Hats",
@@ -3521,14 +3505,6 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0442.png",
-            "name": "Umbreon hat",
-            "author": "Ophidian",
-            "condition": "None",
-            "package": "Town Of Us Hats",
-            "modpack": "TOU"
-        },
-        {
             "resource": "hats0443.png",
             "name": "Vaporeon hat",
             "author": "Ophidian",
@@ -3665,14 +3641,6 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0460.png",
-            "name": "5up hat",
-            "author": "Rum",
-            "condition": "None",
-            "package": "Town Of Us Hats",
-            "modpack": "TOU"
-        },
-        {
             "resource": "hats0461.png",
             "name": "Angel Is Kimi hat",
             "author": "Rum",
@@ -3689,16 +3657,8 @@
             "modpack": "TOU"
         },
         {
-            "resource": "hats0463.png",
-            "name": "Dumbdog hat",
-            "author": "Rum",
-            "condition": "None",
-            "package": "Town Of Us Hats",
-            "modpack": "TOU"
-        },
-        {
             "resource": "hats0464.png",
-            "name": "Ellum hat",
+            "name": "Elum hat",
             "author": "Rum",
             "condition": "None",
             "package": "Town Of Us Hats",
@@ -3707,14 +3667,6 @@
         {
             "resource": "hats0465.png",
             "name": "Hafu Penguin hat",
-            "author": "Rum",
-            "condition": "None",
-            "package": "Town Of Us Hats",
-            "modpack": "TOU"
-        },
-        {
-            "resource": "hats0466.png",
-            "name": "Koji hat",
             "author": "Rum",
             "condition": "None",
             "package": "Town Of Us Hats",
